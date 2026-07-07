@@ -69,5 +69,5 @@ The results demonstrate why a fixed signal-strength threshold can be misleading.
 
 ```text
 Radar_Sample_Project/
-├── 00_generate_sample_data.ipynb
+├── radar_signal_analysis.ipynb
 └── README.md

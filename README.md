@@ -13,7 +13,7 @@ This repository contains selected work created outside of my formal coursework, 
 
 ### 📡 Radar Sample Project
 
-Exploratory analysis and visualization of simulated radar data.
+Synthetic radar signal analysis exploring distance-based signal attenuation and anomaly detection. The project compares observed signal strength with expected behavior to identify unusually weak signals and evaluates the detection method against known injected anomalies.
 
 ### 🛰 Satellite Orbit Data Exploration
 
