@@ -15,9 +15,9 @@ This repository contains selected work created outside of my formal coursework, 
 
 Synthetic radar signal analysis exploring distance-based signal attenuation and anomaly detection. The project compares observed signal strength with expected behavior to identify unusually weak signals and evaluates the detection method against known injected anomalies.
 
-### 🛰 Satellite Orbit Data Exploration
+### 🛰️ Satellite Orbit Data Exploration
 
-Exploratory analysis of satellite orbit data.
+Exploratory analysis of publicly available satellite orbital element data. The project examines orbital regimes, inclination patterns, orbital periods, and unusual or highly elliptical orbits to identify patterns in how modern satellites are distributed across common orbital corridors.
 
 ## 📚 Reference Notebooks
 
