@@ -29,11 +29,9 @@ A practical Python reference covering common syntax, data structures, NumPy, pan
 
 A Jupyter Notebook reference for CSS color names and values.
 
-### 📈 R Cheat Sheet
+### 📈 R Reference Guide
 
-A practical R reference covering common syntax and data analysis patterns.
-
-> The R cheat sheet is currently under development.
+A practical Jupyter notebook covering core R programming, data structures, data manipulation with tidyverse, visualization with ggplot2, statistical analysis, data cleaning, file handling, and common workflows using both built-in datasets and AdventureWorks sample data.
 
 ## 🧭 Repository Philosophy
 
